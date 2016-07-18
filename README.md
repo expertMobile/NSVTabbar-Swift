@@ -22,10 +22,9 @@ To Create the different animation on UITabBar Controller
   To Create the TabBar icons as NSArray for selection time
     
      let  selecteimgArray:NSArray = ["home_selected.png","maps_selected.png","myplan_selected.png","settings_selected.png","maps_selected.png"]
-    
-  // Customize the tabBar images
-  
-  // To Create the attribute dictionary for title for color and font
+ 
+  Customize the tabBar images
+   To Create the attribute dictionary for title for color and font
     NSVBarController.setTabbar(self.tabBar, images:imagesArray, selectedImages: selecteimgArray)
     
 # TabBar Title Customization
