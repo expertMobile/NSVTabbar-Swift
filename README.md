@@ -25,7 +25,9 @@ To Create the different animation on UITabBar Controller
  
  **Customize the tabBar images**
     To Create the attribute dictionary for title for color and font
-     NSVBarController.setTabbar(self.tabBar, images:imagesArray, selectedImages: selecteimgArray)
+    
+    NSVBarController.setTabbar(self.tabBar, images:imagesArray, selectedImages: selecteimgArray)
+    
 # TabBar Title Customization
 
  **To Create the attribute dictionary for title for color and font**
